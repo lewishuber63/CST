@@ -1,5 +1,10 @@
 # CST
 
+CST is a community token experiment deployed on ethereum L2. The tesnet deployments can be found here:
+
+Kovan: 0x37e67e8934Def0351cd3e6400Eab1d1f60dd3440
+STARKNET: tbd
+
 ## Commune Society Token (CST)
 
 There exists a vast array of assets in the world which people freely choose as a store of value, a transactional medium, or an investment. We believe the Ethereum blockchain is a better technology for transacting, storing, and accounting for these assets.
