@@ -1,11 +1,10 @@
 # CST
 
-CST is a community token experiment deployed on ethereum L2. The tesnet deployments can be found here:
+CST is a community token experiment deployed on ethereum L2. The testnet deployments can be found here:
 
 Optimism-Kovan: 0x37e67e8934Def0351cd3e6400Eab1d1f60dd3440
 
-
-STARKNET: tbd
+A amm is deployed on STARKNET: 
 
 ## Commune Society Token (CST)
 
